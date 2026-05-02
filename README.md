@@ -25,7 +25,6 @@ cli.py                     # Command-line interface
 batch_config_example.json  # Example batch-mode configuration
 requirements.txt           # Python dependencies
 examples/                  # Synthetic example input data
-outputs/                   # Generated outputs, ignored by git
 ```
 
 ## Installation
